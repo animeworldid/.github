@@ -16,6 +16,9 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
 <!--START_SECTION:motm_list-->
 # Member of the Month
 <table align="center">
+</table>
+# Member of the Month
+<table align="center">
 <tr>
 <td align="center">
     <a href="https://discord.gg/otakuid">
