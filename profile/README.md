@@ -14,24 +14,6 @@
 Anime World Indonesia is the largest anime lover community in Indonesia based on the social media platform Discord. We provide various services and activities related to anime, such as discussion, trivia, fan art, streaming, and more. We also collaborate with some parties related to the anime industry in Indonesia, such as distributors, studios, media, and other communities. We have a vision to be a place for anime fans in Indonesia to share, learn, and have fun. We have a mission to increase the appreciation and knowledge of Indonesian people towards the culture and art of anime. We have been established since 2019 and have more than 25,000 active members.
 
 <!--START_SECTION:motm_list-->
-# Member of the Month
-<table align="center">
-</table>
-# Member of the Month
-<table align="center">
-<tr>
-<td align="center">
-    <a href="https://discord.gg/otakuid">
-        <img src="https://cdn.discordapp.com/avatars/725331428962992131/c97400bebce9575c91fd9d5275248512.webp?size=4096" width="100px;" alt=""/>
-        <br/>
-        <sub>
-            <b>Vinrer#8181</b>
-        </sub>
-    </a>
-    <br/>
-</td>
-</tr>
-</table>
 <!--END_SECTION:motm_list-->
 
 ## Top Management
