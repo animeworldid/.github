@@ -150,6 +150,16 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
 </td>
 <td align="center">
     <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/892806104013242378/a_43a0bfa99a0443a8b9811f42e2463cc8.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>Cevy_Alone#2780</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
         <img src="https://cdn.discordapp.com/avatars/411396663429693441/aecb24b6abed87fb6243caa9f8164df5.webp?size=4096" width="100px;" alt=""/>
         <br/>
         <sub>
@@ -158,6 +168,8 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
     </a>
     <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
     <a href="https://discord.gg/otakuid">
         <img src="https://cdn.discordapp.com/avatars/1051461586230968330/a1a5418a7eeaa7c1f27b25002f5e4de1.webp?size=4096" width="100px;" alt=""/>
@@ -168,24 +180,22 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
     </a>
     <br/>
 </td>
-</tr>
-<tr>
-<td align="center">
-    <a href="https://discord.gg/otakuid">
-        <img src="https://cdn.discordapp.com/avatars/892806104013242378/a_a89a7b6beb2192f4986db374e045f5e3.webp?size=4096" width="100px;" alt=""/>
-        <br/>
-        <sub>
-            <b>Farshan#2782</b>
-        </sub>
-    </a>
-    <br/>
-</td>
 <td align="center">
     <a href="https://discord.gg/otakuid">
         <img src="https://cdn.discordapp.com/avatars/457835836579512320/8ed76b30b249dbbe8bde59b74c3c6039.webp?size=4096" width="100px;" alt=""/>
         <br/>
         <sub>
             <b>fay#7052</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/328745488587161600/a_3a4408d17d9dac5b864ee60c5e2d22ba.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>hank#8080</b>
         </sub>
     </a>
     <br/>
@@ -230,6 +240,8 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
     </a>
     <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
     <a href="https://discord.gg/otakuid">
         <img src="https://cdn.discordapp.com/avatars/1069254559584759868/1f482a0121eef921d758e2049ebd3c51.webp?size=4096" width="100px;" alt=""/>
@@ -240,8 +252,6 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
     </a>
     <br/>
 </td>
-</tr>
-<tr>
 <td align="center">
     <a href="https://discord.gg/otakuid">
         <img src="https://cdn.discordapp.com/avatars/950731579628609646/745806926eec234c884580bb1cc656de.webp?size=4096" width="100px;" alt=""/>
@@ -274,7 +284,7 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
 </td>
 <td align="center">
     <a href="https://discord.gg/otakuid">
-        <img src="https://cdn.discordapp.com/avatars/455209908569374722/f7bb504961a0ef0480f8165ced5182b6.webp?size=4096" width="100px;" alt=""/>
+        <img src="https://cdn.discordapp.com/avatars/455209908569374722/4398dda8e0282a45dde2b97e6af0f6d1.webp?size=4096" width="100px;" alt=""/>
         <br/>
         <sub>
             <b>Nara~#7777</b>
@@ -284,7 +294,7 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
 </td>
 <td align="center">
     <a href="https://discord.gg/otakuid">
-        <img src="https://cdn.discordapp.com/avatars/234951195016429569/a_4c41d455d9cdf79974e51ade59cb2f55.webp?size=4096" width="100px;" alt=""/>
+        <img src="https://cdn.discordapp.com/avatars/234951195016429569/14da0e63fa0a60a708ce28cdabb1f8bb.webp?size=4096" width="100px;" alt=""/>
         <br/>
         <sub>
             <b>rad.#1469</b>
@@ -302,6 +312,8 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
     </a>
     <br/>
 </td>
+</tr>
+<tr>
 <td align="center">
     <a href="https://discord.gg/otakuid">
         <img src="https://cdn.discordapp.com/avatars/766723982996013116/febc33f66eb06a8eb4db5be0ee97e447.webp?size=4096" width="100px;" alt=""/>
@@ -312,11 +324,9 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
     </a>
     <br/>
 </td>
-</tr>
-<tr>
 <td align="center">
     <a href="https://discord.gg/otakuid">
-        <img src="https://cdn.discordapp.com/avatars/723839275711332402/10d14a570b3f607d61c175980803fd6b.webp?size=4096" width="100px;" alt=""/>
+        <img src="https://cdn.discordapp.com/avatars/723839275711332402/3bdd9feb0f739e0ab9f9a40458e1f8de.webp?size=4096" width="100px;" alt=""/>
         <br/>
         <sub>
             <b>Srens#1680</b>
@@ -346,4 +356,3 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
 </td>
 </tr>
 </table>
-<!--END_SECTION:supporter_list-->
