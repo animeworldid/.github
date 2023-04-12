@@ -18,4 +18,67 @@ Anime World Indonesia is the largest anime lover community in Indonesia based on
 
 ## Top Management
 <!--START_SECTION:administrator_list-->
-<!--END_SECTION:administrator_list-->
+<table>
+<tr>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/815748454160007179/e8b171737f280c39c36821a522031434.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>Archiver#6869</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/210098396113928192/a_cd04b17d93a34437f53527b615b7e4ce.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>kotoko#9749</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/787161949703766037/a8ca86e7679fa97b337c7e4b1b800c45.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>mayonnaise#4206</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/234951195016429569/f645164705df45db0d2e66d65375a36d.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>rad.#1469</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/703921846961307668/47d1afcbc60ab1e6b88768758df25091.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>Tian#0752</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+<td align="center">
+    <a href="https://discord.gg/otakuid">
+        <img src="https://cdn.discordapp.com/avatars/725331428962992131/c97400bebce9575c91fd9d5275248512.webp?size=4096" width="100px;" alt=""/>
+        <br/>
+        <sub>
+            <b>Vinrer#8181</b>
+        </sub>
+    </a>
+    <br/>
+</td>
+</tr>
+</table>
